@@ -1,4 +1,4 @@
-# Auto Git Commit Bot
+#  Auto Git Commit Bot
 
 The **Auto Git Commit Bot** is a GitHub Actions workflow that automatically updates a file, creates a commit, and pushes the changes back to the repository on a scheduled basis. It can also be triggered manually from the GitHub Actions interface.
 
@@ -64,6 +64,7 @@ Workflow Complete
 * GitHub Actions
 * YAML
 
+
 ##  Workflow Schedule
 
 The workflow is scheduled using a cron expression:
@@ -76,6 +77,7 @@ schedule:
 This runs **every day at 00:00 UTC** (approximately **5:30 AM IST**).
 
 The workflow can also be started manually using the **Run workflow** button in the **Actions** tab.
+
 
 ##  Setup Instructions
 
@@ -129,7 +131,7 @@ Actions
 or wait for the scheduled execution.
 
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 
 By building this project, you will learn:
 
@@ -141,6 +143,6 @@ By building this project, you will learn:
 * YAML workflow syntax
 
 
+---
 
 ⭐ If you found this project useful, consider giving the repository a **star**.
-
