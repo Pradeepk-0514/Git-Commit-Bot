@@ -17,6 +17,7 @@ This project demonstrates how to automate repetitive Git operations using **GitH
 
 ##  Project Structure
 
+```text
 Git-Commit-Bot
 │
 ├── .github
@@ -25,6 +26,7 @@ Git-Commit-Bot
 │
 ├── myfile.txt
 ├── README.md
+```
 
 
 ##  How It Works
